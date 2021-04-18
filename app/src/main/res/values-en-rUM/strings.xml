@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="etiqueta_boton_uno">Go to second Activity</string>
+    <string name="etiqueta_boton_dos">Go to third Activity</string>
+    <string name="etiqueta_boton_tres">Go to first Activity</string>
+    <string name="etiqueta_boton_cuatro">Go to third Activity</string>
+    <string name="etiqueta_texto_uno">0</string>
+</resources>
